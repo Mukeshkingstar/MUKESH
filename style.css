@@ -1,0 +1,45 @@
+*{  font-family: 'Outfit', sans-serif;
+list-style: none;
+  weight: 900;
+  text-decoration: none;
+}body {
+    font-size: 15pt;
+    background: #1479FF;
+    border-box:box-sizing
+}.box{
+   background: white;
+   height: 250px;
+   width: 310px;
+   margin: 100px auto;
+   border-radius: 20px;
+   box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}ok img{
+   border: 2px solid #C9C9C9  ;
+   margin-top: 20px;
+   border-radius: 199px;
+   
+   padding: 3px
+}.name{
+   font-weight: 890;
+   
+}button{
+   background:  #1479FF ;
+   border-box:box-sizing;
+   border: none;
+   color: white;
+   font-weight: 600;
+   padding: 8px;
+   font-size: 13px;
+   width: 90px;
+   border-radius: 10px;
+   margin-left: 5px;
+   margin-top: 5px;
+}.flex{
+margin-top: px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}.flex img{
+   margin: 5px;
+}
